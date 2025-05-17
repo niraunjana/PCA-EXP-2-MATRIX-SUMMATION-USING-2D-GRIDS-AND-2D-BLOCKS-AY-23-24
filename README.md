@@ -4,7 +4,7 @@
 <h3>ENTER YOUR REGISTER NO : 212222230096</h3>
 <h3>EX. NO : 02</h3>
 <h3>DATE : </h3>
-<h1> <align=center> MATRIX SUMMATION WITH A 2D GRID AND 2D BLOCKS </h3>
+<h2> <align=center> MATRIX SUMMATION WITH A 2D GRID AND 2D BLOCKS </h2>
 i.  Use the file sumMatrixOnGPU-2D-grid-2D-block.cu
 ii. Matrix summation with a 2D grid and 2D blocks. Adapt it to integer matrix addition. Find the best execution configuration. </h3>
 
