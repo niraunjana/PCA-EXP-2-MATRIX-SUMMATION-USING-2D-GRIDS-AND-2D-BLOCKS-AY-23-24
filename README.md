@@ -295,7 +295,14 @@ int main(int argc, char **argv)
 
 ## OUTPUT:
 
-![366927263-27133a5f-6d45-4e80-b3d4-f00bf07e9b95](https://github.com/user-attachments/assets/3c334499-9210-4bce-97c0-4b21773ce679)
+### Using Floating Point:
+
+![366927263-27133a5f-6d45-4e80-b3d4-f00bf07e9b95-1](https://github.com/user-attachments/assets/fea28435-d9b5-489c-aa27-bddc898554c6)
+
+
+### Using Int:
+
+![366927289-05177367-1f06-4829-a75d-11d67871daf0](https://github.com/user-attachments/assets/73d7cc53-f5d9-4a75-9296-512179547e20)
 
 
 ## RESULT:
