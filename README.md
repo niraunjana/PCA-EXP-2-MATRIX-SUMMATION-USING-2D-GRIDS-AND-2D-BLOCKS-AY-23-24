@@ -5,13 +5,17 @@
 <h3>EX. NO : 02</h3>
 <h3>DATE : </h3>
 <h2> <align=center> MATRIX SUMMATION WITH A 2D GRID AND 2D BLOCKS </h2>
+    
 i.  Use the file sumMatrixOnGPU-2D-grid-2D-block.cu
+
 ii. Matrix summation with a 2D grid and 2D blocks. Adapt it to integer matrix addition. Find the best execution configuration. </h3>
 
 ## AIM:
+
 To perform  matrix summation with a 2D grid and 2D blocks and adapting it to integer matrix addition.
 
 ## EQUIPMENTS REQUIRED:
+
 Hardware – PCs with NVIDIA GPU & CUDA NVCC
 Google Colab with NVCC Compiler
 
@@ -32,6 +36,11 @@ Google Colab with NVCC Compiler
 12.	Reset the device: Reset the device using cudaDeviceReset to ensure that all resources are cleaned up before the program exits.
 
 ## PROGRAM:
+```
+Developed By : Niraunjana Gayathri G R
+Register No. : 212222230096
+```
+
 ```
 %%cuda 
 #include <cuda_runtime.h>
@@ -283,9 +292,10 @@ int main(int argc, char **argv)
 }
 ```
 
+
 ## OUTPUT:
 
-![image](https://github.com/user-attachments/assets/5ab09f99-389e-4694-829d-692aecf3b7ae)
+![366927263-27133a5f-6d45-4e80-b3d4-f00bf07e9b95](https://github.com/user-attachments/assets/3c334499-9210-4bce-97c0-4b21773ce679)
 
 
 ## RESULT:
